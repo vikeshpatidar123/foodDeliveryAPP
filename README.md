@@ -49,10 +49,8 @@ The Home screen displays the list of food items in a grid view, with each food i
 ## Screenshot-
 Home Page
 ![foodDElivery app home page](https://github.com/vikeshpatidar123/foodDeliveryAPP/assets/90331750/50955c5d-41fb-40c0-b2c8-47978620727d)
-
 Sign Up Page
 ![sign up page](https://github.com/vikeshpatidar123/foodDeliveryAPP/assets/90331750/d6ea82d0-59ff-467e-84d4-f785f044cc53)
-
 login page
 ![login page](https://github.com/vikeshpatidar123/foodDeliveryAPP/assets/90331750/b1b9955c-0bda-4c6c-b3ab-c8fae6686617)
 
